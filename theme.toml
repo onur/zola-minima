@@ -1,0 +1,22 @@
+name = "zola-minima"
+description = "Port of jekyll's minima theme for zola."
+license = "MIT"
+homepage = "https://github.com/onur/zola-minima"
+min_version = "0.5.0"
+demo = "https://onur.github.io/zola-minima/"
+
+[extra]
+# Site language
+lang = "en"
+links = []
+site = { author = "GitHub User", email = "your-email@domain.com" }
+
+# The theme author info: you!
+[author]
+name = "Onur Aslan"
+homepage = "https://github.com/onur"
+
+[original]
+author =  "jekyll"
+homepage = "https://jekyll.github.io/minima/"
+repo = "https://github.com/jekyll/minima"

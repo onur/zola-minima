@@ -1,0 +1,22 @@
+# The URL the site will be built for
+base_url = "https://onur.github.io/zola-minima/"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+title = "Your awesome title"
+description = "Write an awesome description for your new site here. You can edit this line in config.toml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+generate_rss = true
+
+[extra]
+# Put all your custom variables here
+lang = "en"
+links = []
+site = { author = "GitHub User", email = "your-email@domain.com" }
