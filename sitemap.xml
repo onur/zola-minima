@@ -1,0 +1,44 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+        <url>
+            <loc>https://onur.github.io/zola-minima/my-example-post/</loc>
+            
+                <lastmod>2016-05-20</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https://onur.github.io/zola-minima/super-long-article/</loc>
+            
+                <lastmod>2016-05-20</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https://onur.github.io/zola-minima/super-short-article/</loc>
+            
+                <lastmod>2016-05-19</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https://onur.github.io/zola-minima/this-post-demonstrates-post-content-styles/</loc>
+            
+                <lastmod>2016-05-20</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https://onur.github.io/zola-minima/welcome-to-jekyll/</loc>
+            
+                <lastmod>2016-05-20</lastmod>
+            
+        </url>
+    
+    
+        <url>
+            <loc>https://onur.github.io/zola-minima/</loc>
+        </url>
+    
+    
+</urlset>
